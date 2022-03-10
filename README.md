@@ -5,8 +5,6 @@
 
 - 📫 How to reach me [**leighton@tdwl.dev**](mailto:leighton@tdwl.dev)
 
-- **Scroll down to see some of my best projects pinned on my profile**
-
 <p><img height="160" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leighton-tidwell&show_icons=true&theme=dark&locale=en&layout=compact" alt="leighton-tidwell" /></p>
 
 
