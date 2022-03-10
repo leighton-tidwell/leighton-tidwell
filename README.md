@@ -3,7 +3,7 @@
 
 - 👨‍💻 Showcases of some of my projects are available at [https://tdwl.dev](https://tdwl.dev) and on their respective repositories.
 
-- 📫 How to reach me [mailto:leighton@tdwl.dev](**leighton@tdwl.dev**)
+- 📫 How to reach me [**leighton@tdwl.dev**](mailto:leighton@tdwl.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
