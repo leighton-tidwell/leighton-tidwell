@@ -3,7 +3,7 @@
 
 - 👨‍💻 Showcases of some of my projects are available at [https://tdwl.dev](https://tdwl.dev) and on their respective repositories.
 
-- 📫 How to reach me [**leighton@tdwl.dev**](mailto:leighton@tdwl.dev)
+- 📫 How to reach me [**leighton [at] tdwl.dev**](mailto:leighton@tdwl.dev)
 
 <p><img height="160" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leighton-tidwell&show_icons=true&theme=dark&locale=en&layout=compact" alt="leighton-tidwell" /></p>
 
