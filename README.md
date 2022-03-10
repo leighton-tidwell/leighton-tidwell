@@ -7,8 +7,8 @@
 
 - **Scroll down to see some of my best projects pinned on my profile**
 
-<p><img height="180" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leighton-tidwell&show_icons=true&theme=dark&locale=en&layout=compact" alt="leighton-tidwell" /></p>
+<p><img height="160" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leighton-tidwell&show_icons=true&theme=dark&locale=en&layout=compact" alt="leighton-tidwell" /></p>
 
 
-<p><img align="right" height="180"  src="https://github-readme-stats.vercel.app/api?username=leighton-tidwell&show_icons=true&theme=dark&locale=en" alt="leighton-tidwell" /></p>
+<p><img align="right" height="160"  src="https://github-readme-stats.vercel.app/api?username=leighton-tidwell&show_icons=true&theme=dark&locale=en" alt="leighton-tidwell" /></p>
 
