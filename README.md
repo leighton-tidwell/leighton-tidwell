@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Leighton <img src="https://komarev.com/ghpvc/?username=leighton-tidwell&label=Profile%20views&color=ff0000&style=flat-square" alt="leighton-tidwell" /></h1>
 <h3 align="left">A full stack web developer specializing in Javascript web applications</h3>
 
-- 👨‍💻 Showcases of some of my projects are available at [https://tdwl.dev](https://tdwl.dev)
+- 👨‍💻 Showcases of some of my projects are available at [https://tdwl.dev](https://tdwl.dev) and on their respective repositories.
 
-- 📫 How to reach me **leighton@tdwl.dev**
+- 📫 How to reach me [mailto:leighton@tdwl.dev](**leighton@tdwl.dev**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
