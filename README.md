@@ -15,6 +15,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leighton-tidwell&show_icons=true&theme=dark&locale=en&layout=compact" alt="leighton-tidwell" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leighton-tidwell&show_icons=true&theme=dark&locale=en" alt="leighton-tidwell" /></p>
+
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=leighton-tidwell&theme=dark" alt="leighton-tidwell" /></p>
